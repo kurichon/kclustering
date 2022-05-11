@@ -6,3 +6,9 @@ This code generates random samples everytime it is executed based on the sampleC
 For the color, you can add more colors depending on how many clusters you want to experiment on. The number of colors written on this code only supports up to k = 4.
 
 If the code does not finish looping after 50 iterations, the program will forcefully terminate.
+
+
+#Version used
+Python 3.5
+#Libraries Required
+mathplotlib
