@@ -8,7 +8,10 @@ For the color, you can add more colors depending on how many clusters you want t
 If the code does not finish looping after 50 iterations, the program will forcefully terminate.
 
 
-#Version used
+Version used:
+
 Python 3.5
-#Libraries Required
+
+Libraries Required:
+
 mathplotlib
